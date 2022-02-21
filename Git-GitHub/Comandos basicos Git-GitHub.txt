@@ -1,0 +1,7 @@
+git clone copia um repositorio 
+
+git add * adiciona no controle de versão
+
+git commit -m "Adiciona um comentario" 
+
+git puh origin main - para subir o repositorio para nuvem 
